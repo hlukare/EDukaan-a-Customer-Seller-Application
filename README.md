@@ -77,7 +77,7 @@ We developed a multilingual Android application integrated with an AI-powered ba
 ### Backend
 ```bash
 git clone https://github.com/hlukare/EDukaan-a-Customer-Seller-Application.git
-cd idea-backend
+cd EDukaan-a-Customer-Seller-Application
 pip install -r requirements.txt
 python app.py
 ```
